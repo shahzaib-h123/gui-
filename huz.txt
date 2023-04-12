@@ -1,0 +1,51 @@
+  <table>
+  <tr>
+    <th>Karachi Foods</th>
+    <th>Hotal</th>
+    <th>location</th>
+    <th>Website</th>
+ </tr>
+<tr>
+    
+
+<td>Biryani</td>
+<td>Pearl continental</td>
+<td><a href="https://www.google.com/maps/search/Pearl+continental/@24.8472566,67.022903,17z/data=!3m1!4b1"> Karachi Gymkhana</a></td>
+<td><a href="https://www.facebook.com/"><button> Facebook</button></a></td>
+</tr>
+<tr>
+<td>haleem</td>
+<td>Beach Luxury</td>
+<td><a href="https://www.google.com/maps/place/Beach+Luxury+Hotel/@24.8433967,66.9933609,17z/data=!3m1!4b1!4m8!3m7!1s0x3eb315fe31be0eb5:0x2cc076f60db218a6!5m2!4m1!1i2!8m2!3d24.8434648!4d66.9955984"> clifton</a></td>
+<td><a href="https://www.instagram.com"><button> Instagram</button></a></td></td>
+</tr>
+<tr>
+<td>B.B.Q</td>
+<td>Movenpick</td>
+<td><a href="https://www.google.com/maps/place/M%C3%B6venpick+Karachi/@24.8467483,67.023903,17z/data=!3m1!4b1!4m8!3m7!1s0x3eb33ddf1f6ef4dd:0xf53ae106a1d4c831!5m2!4m1!1i2!8m2!3d24.8467434!4d67.0260917"> Karachi Gymkhana</a></td>
+<td><a" href="https://www.gmail.com"><button> Gmail</button></a></td></td>
+</tr>
+
+
+
+
+
+
+
+</table>
+table,tr,th,td{
+    font-size: 10px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border:20px solid black ;
+    border-collapse: collapse;
+    text-align: center;
+    width:1500px ;
+    margin:  ;
+    color:white;
+    background-color:black ;
+
+}
+    td:hover{
+        color: cadetblue;
+        font-size:20px ;
+    }
